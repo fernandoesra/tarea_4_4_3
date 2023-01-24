@@ -3,6 +3,8 @@ package ahorcadoMain;
 import java.util.Arrays;
 import java.util.Scanner;
 
+//Comentario de prueba para la modificación
+
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc1 = new Scanner(System.in);
